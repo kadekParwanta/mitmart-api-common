@@ -13,7 +13,7 @@
     "connector": "mongodb"
   },
   "mitmart-testing": {
-    "host": "localhost",
+    "host": "54.169.238.0",
     "port": 27017,
     "database": "mitmart-testing",
     "password": "",
