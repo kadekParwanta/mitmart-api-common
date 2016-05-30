@@ -4,4 +4,5 @@ node_js:
 install:
   - npm install strongloop mocha
   - npm install
-# script: "npm test"
+env: NODE_ENV=testing
+cache: node_modules
