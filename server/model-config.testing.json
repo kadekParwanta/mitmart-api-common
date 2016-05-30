@@ -1,4 +1,3 @@
-
 {
   "User": {
     "dataSource": "db",
@@ -26,5 +25,9 @@
     "options": {
       "emailVerificationRequired": true
     }
+  },
+  "Email": {
+    "dataSource": "elasticemail",
+    "public": false
   }
 }

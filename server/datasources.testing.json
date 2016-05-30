@@ -4,22 +4,12 @@
     "connector": "memory"
   },
   "mitmart": {
-    "host": "localhost",
-    "port": 27017,
-    "database": "mitmart",
-    "password": "",
     "name": "mitmart",
-    "user": "",
-    "connector": "mongodb"
+    "connector": "memory"
   },
   "mitmarttesting": {
-    "host": "localhost",
-    "port": 27017,
-    "database": "mitmarttesting",
-    "password": "",
     "name": "mitmarttesting",
-    "user": "",
-    "connector": "mongodb"
+    "connector": "memory"
   },
   "elasticemail": {
     "name": "elasticemail",
